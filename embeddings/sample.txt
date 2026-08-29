@@ -1,0 +1,5 @@
+Artificial intelligence is the simulation of human intelligence.
+Machine learning is a subset of AI that learns from data.
+Deep learning uses neural networks with many layers.
+Natural language processing allows machines to understand text.
+Computer vision enables machines to interpret images and videos.

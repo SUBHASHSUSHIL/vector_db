@@ -1,0 +1,20 @@
+# Core
+numpy==2.5.2
+matplotlib==3.11.1
+
+# Pinecone
+pinecone==9.1.0
+
+# Real embeddings (optional but recommended)
+sentence-transformers==3.4.1
+
+# PDF chunking
+pymupdf==1.26.1
+
+# Image chunking (OCR)
+pillow==11.2.1
+pytesseract==0.3.13
+# NOTE: Tesseract OCR system install: https://github.com/UB-Mannheim/tesseract/wiki
+
+# Env file support
+python-dotenv==1.1.0
