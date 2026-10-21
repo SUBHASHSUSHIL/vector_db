@@ -1,4 +1,4 @@
-# 🗄️ Vector Database — Complete Guide
+# 🗄️ Vector Database
 
 > A full explanation of what Vector DB is, how it works, and what this project contains.
 
